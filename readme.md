@@ -10,4 +10,7 @@
   > 正确
 - require github.com/forifido/gomod-research/v2 v2.3.0
   > 无法导入, 根目录和 v2 子目录定义了相同 mod
+- require github.com/forifido/gomod-research/v2 v2.4.0
+  > v2 版本升级到最新, `go get -u`
+
 
