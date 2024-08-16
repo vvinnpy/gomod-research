@@ -1,3 +1,3 @@
-module github.com/forifido/gomod-research/v2
+module github.com/forifido/gomod-research
 
 go 1.22
